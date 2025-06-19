@@ -1,2 +1,2 @@
 # FitzHugh-Nagumo-PINN-Simulation
-imulation of the FitzHugh–Nagumo model using Euler, FVM, and PINNs.
+Simulation of the FitzHugh–Nagumo model using Euler, FVM, and PINNs.
